@@ -1,0 +1,1 @@
+in this project basically we are managing store .in this we can login through three different profiles , as a customer , employee-cashier, employee -manager. each profile allows you to handle a different aspect of the store . bill generation , product sales , product description ,product sales , etc . project is made using mern stack .
